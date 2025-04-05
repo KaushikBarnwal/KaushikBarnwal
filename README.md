@@ -1,7 +1,7 @@
-<p align="center"><a href="https://KaushikBarnwal.github.io"><img width="80%" alt="Hello, I'm Kaushik Raj!!" src="./assets/gh-readme-header.png"/></a></p>
+<p align="center"><a href="http://kaushikbarnwal.wordpress.com/"><img width="50%" alt="Hello, I'm Kaushik Raj!!" src="Images/Kaushik Raj.jpg"/></a></p>
 
 <br />
-
+#**Hello, I'm Kaushik Raj!!**
 A dedicated student at ARKA JAIN University, Jamshedpur, currently pursuing a Bachelor of Computer Applications (B.C.A). A proactive Creative Team Lead at Google Developer Groups On Campus '24 , contributing to innovative projects and fostering a collaborative learning environment.
 
 "Holder of an Advanced Diploma in Computer Applications from Alpha Plus, I bring a strong foundation in MS Office Tools, HTML/CSS, C/C++, and Python. Passionate about design, I excel in tools like Canva Pro and Adobe Illustrator, blending creativity with technical expertise."
@@ -27,19 +27,17 @@ A dedicated student at ARKA JAIN University, Jamshedpur, currently pursuing a Ba
 #### Top Repositories
 
 
-<a href="https://github.com/KaushikBarnwal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaushikBarnwal&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/KaushikBarnwal/KaushikBarnwal.github.io">
+<a href="https://kaushikbarnwal.github.io/Music-Player/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaushikBarnwal&repo=KaushikBarnwal.github.io&theme=buefy" />
 </a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/KaushikBarnwal">
-  <img align="right" alt="Kaushik Barnwal | Twitter" width="21px" src="https://raw.githubusercontent.com/KaushikBarnwal/KaushikBarnwal/master/assets/twitter.svg" />
+<a href="https://kaushikbarnwal.github.io/Book-Library/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaushikBarnwal&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://codesandbox.io/u/KaushikBarnwal">
-  <img align="right" alt="Kaushik Barnwal | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/KaushikBarnwal/KaushikBarnwal/master/assets/codesandbox.svg" />
+
+
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/kaushik-raj-469368250/">
+  <img align="right" alt="Kaushik Barnwal | Twitter" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png" />
 </a>
