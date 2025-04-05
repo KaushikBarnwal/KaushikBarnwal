@@ -1,4 +1,4 @@
-<p align="center"><a href="http://kaushikbarnwal.wordpress.com/"><img width="10%" alt="Hello, I'm Kaushik Raj!!" src="Images/Kaushik Raj.jpg"/></a> \nHello, I'm Kaushik Raj!!</p>
+<p align="center"><a href="http://kaushikbarnwal.wordpress.com/"><img width="10%" alt="Hello, I'm Kaushik Raj!!" src="Images/Kaushik Raj.jpg"/></a> <br>Hello, I'm Kaushik Raj!!</p>
 
 <br />
 
