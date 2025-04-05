@@ -1,7 +1,9 @@
-<p align="center"><a href="http://kaushikbarnwal.wordpress.com/"><img width="10%" alt="Hello, I'm Kaushik Raj!!" src="Images/Kaushik Raj.jpg"/></a> <br>Hello, I'm Kaushik Raj!!</p>
+<p align="center"><a href="http://kaushikbarnwal.wordpress.com/"><img width="10%" alt="Hello, I'm Kaushik Raj!!" src="Images/Kaushik Raj.jpg"/></a></p>
 
 <br />
 
+
+#Hello, I'm Kaushik Raj!!
 A dedicated student at ARKA JAIN University, Jamshedpur, currently pursuing a Bachelor of Computer Applications (B.C.A). A proactive Creative Team Lead at Google Developer Groups On Campus '24 , contributing to innovative projects and fostering a collaborative learning environment.
 
 "Holder of an Advanced Diploma in Computer Applications from Alpha Plus, I bring a strong foundation in MS Office Tools, HTML/CSS, C/C++, and Python. Passionate about design, I excel in tools like Canva Pro and Adobe Illustrator, blending creativity with technical expertise."
