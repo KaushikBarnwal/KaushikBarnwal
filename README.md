@@ -39,7 +39,7 @@
 
 A dedicated student at ARKA JAIN University, Jamshedpur, currently pursuing a Bachelor of Computer Applications (B.C.A). A proactive Creative Team Lead at Google Developer Groups On Campus '24 , contributing to innovative projects and fostering a collaborative learning environment.
 
-Holder of an Advanced Diploma in Computer Applications from Alpha Plus, I bring a strong foundation in MS Office Tools, HTML/CSS, C/C++, and Python. Passionate about design, I excel in tools like Canva Pro and Adobe Illustrator, blending creativity with technical expertise.
+Holder of an Advanced Diploma in Computer Applications from Alpha Plus, I bring a strong foundation in MS Office Tools, HTML/CSS/JavaScript, C/C++, and Python. Passionate about design, I excel in tools like Canva Pro, Figma and Adobe Illustrator, blending creativity with technical expertise.
 
 ---
 
