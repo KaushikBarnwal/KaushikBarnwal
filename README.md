@@ -1,24 +1,8 @@
-<!-- <div align="center">
-  <table style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <a href="http://kaushikbarnwal.wordpress.com/">
-        <img width="100" alt="Hello, I'm Kaushik Raj!!" src="Images/Kaushik Raj.jpg"/>
-      </a>
-    </td>
-    <td style="border: none;">
-      <h1>Hi there, I'm <span style="color:#5bc0de">Kaushik Raj</span> 👋</h1>
-    </td>
-  </tr>
-  </table>
-</div> -->
 
 <p align="center">
   <a href="http://kaushikbarnwal.wordpress.com/">
     <img width="100" alt="Kaushik Raj" src="assets/Kaushik Raj.jpg" align="center" hspace="50" />
   </a>
-<!--   &nbsp;&nbsp;&nbsp;&nbsp; -->
-<!--   <span style="font-size: 38px;"><b>Hi there, I'm Kaushik Raj 👋</b></span> -->
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#5bc0de">Kaushik Raj</span> 👋</h1>
@@ -29,25 +13,24 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Machine+Learning+Enthusiast;UI/UX+Designer;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
-
 <!-- GIF -->
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="developer animation"/>
 </p>
 <!-- Space Shooter Contribution Game -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/RiteshKumar2e/RiteshKumar2e/output/github-contribution-grid-snake.svg" />
-</p> -->
 <p align="center">
-  <img src="assets/" alt="Space Shooter animation"/>
+  <img src="assets/space-shooter.gif" alt="Space Shooter animation"/>
 </p>
 
 ---
 
-A dedicated student at ARKA JAIN University, Jamshedpur, currently pursuing a Bachelor of Computer Applications (B.C.A). A proactive Creative Team Lead at Google Developer Groups On Campus '24 , contributing to innovative projects and fostering a collaborative learning environment.
+Currently a dedicated student at Pimpri Chinchwad College of Engineering, Pune, currently pursuing a Master of Computer Applications (M.C.A). 
+
+Proud to serve as one of the core organizers (among 9) of our University's first flagship Hackathon — Hack Horizon: Where Innovation Meets Reality, held on 11th–12th April, 2025. I played a pivotal role as Creative Team Lead from Ideation of this event on Starting January to leading the entire Design Team in bringing this grand event to life.
+
+Previously, I contributed as Creative Lead at GDG On Campus’24 AJU and Design Lead for Google Developer Student Club AJU (2023), where I led collaborative events, projects, encouraged creative thinking, and helped foster a vibrant tech community on campus.
 
 Holder of an Advanced Diploma in Computer Applications from Alpha Plus, I bring a strong foundation in MS Office Tools, HTML/CSS/JavaScript, C/C++, and Python. Passionate about design, I excel in tools like Canva Pro, Figma and Adobe Illustrator, blending creativity with technical expertise.
-
 ---
 
 ### 👨‍💻 About Me
@@ -58,19 +41,7 @@ Holder of an Advanced Diploma in Computer Applications from Alpha Plus, I bring 
 - 📫 Reach me at: [barnwalkaushik@gmail.com](mailto:barnwalkaushik@gmail.com)
 - ⚡ Fun Fact: I love solving coding problems & building full-stack projects.
 
-
 ---
-
-<!-- <code><img height="30" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" alt="cpp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
 
 <!-- <p>### 🛠️ Tech Stack -->
 <!-- <p>- **Languages:** C/C++, Python, JavaScript, HTML, CSS, Django    -->
@@ -117,5 +88,3 @@ Holder of an Advanced Diploma in Computer Applications from Alpha Plus, I bring 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KaushikBarnwal&label=Profile+Views&color=0e75b6&style=flat" alt="KaushikBarnwal" />
 </p>
-
----
