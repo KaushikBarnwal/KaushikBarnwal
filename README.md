@@ -31,6 +31,7 @@ Proud to serve as one of the core organizers (among 9) of our University's first
 Previously, I contributed as Creative Lead at GDG On Campus’24 AJU and Design Lead for Google Developer Student Club AJU (2023), where I led collaborative events, projects, encouraged creative thinking, and helped foster a vibrant tech community on campus.
 
 Holder of an Advanced Diploma in Computer Applications from Alpha Plus, I bring a strong foundation in MS Office Tools, HTML/CSS/JavaScript, C/C++, and Python. Passionate about design, I excel in tools like Canva Pro, Figma and Adobe Illustrator, blending creativity with technical expertise.
+
 ---
 
 ### 👨‍💻 About Me
