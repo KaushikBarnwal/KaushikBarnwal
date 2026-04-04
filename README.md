@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="http://kaushikbarnwal.wordpress.com/">
-    <img width="100" alt="Kaushik Raj" src="Images/Kaushik Raj.jpg" align="center" hspace="50" />
+    <img width="100" alt="Kaushik Raj" src="assets/Kaushik Raj.jpg" align="center" hspace="50" />
   </a>
 <!--   &nbsp;&nbsp;&nbsp;&nbsp; -->
 <!--   <span style="font-size: 38px;"><b>Hi there, I'm Kaushik Raj 👋</b></span> -->
@@ -75,6 +75,7 @@ Holder of an Advanced Diploma in Computer Applications from Alpha Plus, I bring 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaushikBarnwal&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://vercel.com/kaushikbarnwals-projects/github-readme-stats/settings/github-readme-stats-git-master-kaushikbarnwals-projects.vercel.app/api?username=KaushikBarnwal&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaushikBarnwal&theme=tokyonight" height="150"/>
 </p>
 
