@@ -24,23 +24,13 @@
 
 ---
 
-Currently a dedicated student at Pimpri Chinchwad College of Engineering, Pune, currently pursuing a Master of Computer Applications (M.C.A). 
-
-Proud to serve as one of the core organizers (among 9) of our University's first flagship Hackathon — Hack Horizon: Where Innovation Meets Reality, held on 11th–12th April, 2025. I played a pivotal role as Creative Team Lead from Ideation of this event on Starting January to leading the entire Design Team in bringing this grand event to life.
-
-Previously, I contributed as Creative Lead at GDG On Campus’24 AJU and Design Lead for Google Developer Student Club AJU (2023), where I led collaborative events, projects, encouraged creative thinking, and helped foster a vibrant tech community on campus.
-
-Holder of an Advanced Diploma in Computer Applications from Alpha Plus, I bring a strong foundation in MS Office Tools, HTML/CSS/JavaScript, C/C++, and Python. Passionate about design, I excel in tools like Canva Pro, Figma and Adobe Illustrator, blending creativity with technical expertise.
-
----
-
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **My Portfolio**
 - 🌱 Learning **Artificial Intelligence, UI/UX Design, and Full Stack in Web** 
 - 💬 Ask me about: `Python`, `C/C++`, `UI/UX`, `MySQL` [here](https://github.com/KaushikBarnwal/KaushikBarnwal/issues)
 - 📫 Reach me at: [barnwalkaushik@gmail.com](mailto:barnwalkaushik@gmail.com)
-- ⚡ Fun Fact: I love solving coding problems & building full-stack projects.
+- ⚡ Fun Fact: I love solving real-world coding problems & building full-stack projects.
 
 ---
 
