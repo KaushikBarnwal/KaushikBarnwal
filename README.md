@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **My Portfolio**
+- 🔭 Currently working on **Isekai Tracker & Eventopus Platform**
 - 🌱 Learning **Artificial Intelligence, UI/UX Design, and Full Stack in Web** 
 - 💬 Ask me about: `Python`, `C/C++`, `UI/UX`, `MySQL` [here](https://github.com/KaushikBarnwal/KaushikBarnwal/issues)
 - 📫 Reach me at: [barnwalkaushik@gmail.com](mailto:barnwalkaushik@gmail.com)
